@@ -1,0 +1,2 @@
+module.pkl filter=lfs diff=lfs merge=lfs -text
+module.pth filter=lfs diff=lfs merge=lfs -text
